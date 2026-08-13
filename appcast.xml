@@ -3,13 +3,13 @@
     <channel>
         <title>Kit Studio</title>
         <item>
-            <title>1.0.2</title>
-            <pubDate>Wed, 12 Aug 2026 13:29:33 -0700</pubDate>
-            <sparkle:version>1.0.2</sparkle:version>
-            <sparkle:shortVersionString>1.0.2</sparkle:shortVersionString>
+            <title>1.0.3</title>
+            <pubDate>Wed, 12 Aug 2026 20:15:09 -0700</pubDate>
+            <sparkle:version>1.0.3</sparkle:version>
+            <sparkle:shortVersionString>1.0.3</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/capy-baras/kit-studio/releases/download/v1.0.2/KitStudio-1.0.2.zip" length="17378209" type="application/octet-stream" sparkle:edSignature="IM+vNUV7pcIjcWrvkfWrCmNgZoB0WtAUqfEgLsMQCdY2ielX/ewsNm8bmUVbvZ15w3tTGQDq4CluXDzvY1bTBA=="/>
+            <enclosure url="https://github.com/capy-baras/kit-studio/releases/download/v1.0.3/KitStudio-1.0.3.zip" length="17379453" type="application/octet-stream" sparkle:edSignature="uPCXTU34SqEjnTBhdB86Qsx2FTwgYvmSk1ydloiG6sXk7gqBI2Cp1+ohYIEKlh+ZmyuEkuu1c8mTPCuqSkoxAw=="/>
         </item>
     </channel>
 </rss>
