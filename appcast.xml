@@ -3,21 +3,21 @@
     <channel>
         <title>stash.mp3</title>
         <item>
-            <title>1.0.7</title>
-            <pubDate>Mon, 17 Aug 2026 19:43:31 -0700</pubDate>
-            <sparkle:version>1.0.7</sparkle:version>
-            <sparkle:shortVersionString>1.0.7</sparkle:shortVersionString>
+            <title>1.0.8</title>
+            <pubDate>Mon, 17 Aug 2026 19:49:08 -0700</pubDate>
+            <sparkle:version>1.0.8</sparkle:version>
+            <sparkle:shortVersionString>1.0.8</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description><![CDATA[<h2>stash.mp3 1.0.7</h2>
-<p><strong>Kit Studio is now stash.mp3.</strong> Same app, new name.</p>
+            <description><![CDATA[<h2>stash.mp3 1.0.8</h2>
+<p><strong>Your settings now stick between launches.</strong></p>
 <ul>
-  <li>Rebranded throughout — window, menus, and onboarding now read <em>stash.mp3</em>.</li>
-  <li>Your library folder moved from <code>~/KitStudio</code> to <code>~/stash.mp3</code> automatically on first launch. Nothing to do — all projects, samples, MIDI, and kits carry over.</li>
+  <li>Fixed a bug where the app picked a new internal port on every launch, which quietly wiped saved preferences — so the welcome tour kept reappearing and your theme, column layout, and sidebar width reset each time.</li>
+  <li>These now persist properly from here on.</li>
 </ul>
-<p><small>If you still see an old “Kit Studio” app in your Applications folder, you can drag it to the Trash.</small></p>
+<p><small>One-time note: because older versions never saved this, the welcome tour may show once more on this update. Skip or finish it once and it won't return.</small></p>
 ]]></description>
-            <enclosure url="https://github.com/capy-baras/kit-studio/releases/download/v1.0.7/KitStudio-1.0.7.zip" length="17453554" type="application/octet-stream" sparkle:edSignature="950SeQbTWMmwSNRBQZKmu22IbdwmFEzs9q2GsAGuOCFhqwl+lvJll6ZvRYs7WCk5WWYbO+mDmErbQGn+/W5ADg=="/>
+            <enclosure url="https://github.com/capy-baras/kit-studio/releases/download/v1.0.8/KitStudio-1.0.8.zip" length="17454035" type="application/octet-stream" sparkle:edSignature="UluMyv1eJdHQwBx84VTmjM9anGYXaiYnQcwG2icUhf18ApLXXJAwHsAIAbvbdeyjIK8y/EQIzxcqwEd0PfkODQ=="/>
         </item>
     </channel>
 </rss>
