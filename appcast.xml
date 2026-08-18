@@ -1,15 +1,15 @@
 <?xml version="1.0" standalone="yes"?>
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
-        <title>Kit Studio</title>
+        <title>stash.mp3</title>
         <item>
-            <title>1.0.6</title>
-            <pubDate>Sun, 16 Aug 2026 23:07:37 -0700</pubDate>
-            <sparkle:version>1.0.6</sparkle:version>
-            <sparkle:shortVersionString>1.0.6</sparkle:shortVersionString>
+            <title>1.0.7</title>
+            <pubDate>Mon, 17 Aug 2026 19:40:35 -0700</pubDate>
+            <sparkle:version>1.0.7</sparkle:version>
+            <sparkle:shortVersionString>1.0.7</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/capy-baras/kit-studio/releases/download/v1.0.6/KitStudio-1.0.6.zip" length="17444681" type="application/octet-stream" sparkle:edSignature="rwg/+E82E8qibzA8Vo5OYhyQWPBjXkkijg+JjVWvuC6eR+2y4Wr8uchg9sWug+ZnxVGbP6LrSjvG4vSo28IWAA=="/>
+            <enclosure url="https://github.com/capy-baras/kit-studio/releases/download/v1.0.7/KitStudio-1.0.7.zip" length="17453554" type="application/octet-stream" sparkle:edSignature="950SeQbTWMmwSNRBQZKmu22IbdwmFEzs9q2GsAGuOCFhqwl+lvJll6ZvRYs7WCk5WWYbO+mDmErbQGn+/W5ADg=="/>
         </item>
     </channel>
 </rss>
