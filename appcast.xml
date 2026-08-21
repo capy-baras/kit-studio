@@ -3,23 +3,13 @@
     <channel>
         <title>Stash</title>
         <item>
-            <title>1.0.10</title>
-            <pubDate>Thu, 20 Aug 2026 13:36:18 -0700</pubDate>
-            <sparkle:version>1.0.10</sparkle:version>
-            <sparkle:shortVersionString>1.0.10</sparkle:shortVersionString>
+            <title>1.0.11</title>
+            <pubDate>Thu, 20 Aug 2026 19:19:46 -0700</pubDate>
+            <sparkle:version>1.0.11</sparkle:version>
+            <sparkle:shortVersionString>1.0.11</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <description><![CDATA[<h2>Stash 1.0.10</h2>
-<ul>
-  <li><strong>Frosted-glass window (new).</strong> Settings → Window background turns on a translucent macOS blur behind the app, with a slider to set how see-through it is. The blur follows your light/dark theme.</li>
-  <li><strong>You can drag the window again.</strong> After the blended title bar, the top edge was swallowing clicks — dragging the window by the top strip works again, and double-clicking it zooms the window.</li>
-  <li><strong>No more freeze when adding a project.</strong> Importing an FLP no longer freezes the window while it processes.</li>
-  <li><strong>Creating a kit is more reliable.</strong> It no longer hangs when an external drive is offline — kits fall back to a local folder so creation always completes.</li>
-  <li><strong>Right-click menus open at the cursor.</strong> Rename and confirm sub-menus now appear at the item you clicked instead of the row's far edge.</li>
-  <li><strong>Kit view polish.</strong> The Kits sidebar shows a closed/open box for its toggle, and the detail panel's top row now fills to both edges (no gray gap on the right).</li>
-</ul>
-]]></description>
-            <enclosure url="https://github.com/capy-baras/stash-mp3/releases/download/v1.0.10/KitStudio-1.0.10.zip" length="17468536" type="application/octet-stream" sparkle:edSignature="oqMC75er0zba0XscI88D8CTjTqXd+7Oj14KHtB/PWTYM3xiNd6VhxGjbXtADAwCITlnWeA+ChgChR3PwFGsXDA=="/>
+            <enclosure url="https://github.com/capy-baras/stash-mp3/releases/download/v1.0.11/KitStudio-1.0.11.zip" length="17468257" type="application/octet-stream" sparkle:edSignature="VUS4blTIrbeZoG951pcMdluAFOe0YL8GIWtGc4fiokZKT7PvqhbWlyYit2CIgICoyN1ri03e1QL624VMYDVhDg=="/>
         </item>
     </channel>
 </rss>
